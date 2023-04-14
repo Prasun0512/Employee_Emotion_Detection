@@ -1,7 +1,7 @@
 
 # Employee Emotion Detection using DeepFace
 
-This project uses the DeepFace library to detect the emotion of an employee in real-time, based on their facial expressions. The system captures images of employees at specific times and sends them to a server for analysis. The server then processes the images and determines the employee's current emotional state, and sends an email to the manager with the employee's mood.
+This project uses the DeepFace library to detect the emotion of an employee in real-time, based on their facial expressions. The system captures images of employees at specific times and sends them to a server for analysis. The server then processes the images and determines the employee's current emotional state, and sends an email to the manager with the employee's mood
 
 ## Requirements
 
